@@ -7,7 +7,8 @@
 - Paracuellos Ocaña, Miguel
 
 
-**Anàlisis**
+**Anàlisis**:
+
 Si voleu veure els resultats obtinguts de l'experimentació haureu d'executar Scripts/DeepLearning/Analysis/analyse.py. Des del path Scripts/DeepLearning s'haurà d'executar la següent comanda:
 ```
 python Analysis/analyse.py
