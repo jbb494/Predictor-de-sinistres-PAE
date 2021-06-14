@@ -1,6 +1,6 @@
-PAE - Catalana Occident
+# PAE - Catalana Occident
 
-Autors:
+**Autors:**
 - Aguilar Barroso, Manel
 - Bellavista Bartroli, Joan
 - Mohammed, Omar
